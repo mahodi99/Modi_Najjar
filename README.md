@@ -1,6 +1,6 @@
-#DevProx 🔱
-# channel [ၣ℡ PROX DEV🔵](https://telegram.me/Mahodi_Sharif)
-👮 - #DEV 🏻-  @IQ_ABS
+#سورس مهدي العراقي  🔱
+# channel [ၣ℡ Mahodi_Sharif🔵](https://telegram.me/Mahodi_Sharif)
+👮 - #DEV 🏻-  @Mahodi_Sharif
 * * *
 
 
