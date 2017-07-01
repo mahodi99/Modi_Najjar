@@ -1,5 +1,5 @@
 #DevProx 🔱
-# channel [ၣ℡ PROX DEV🔵](https://telegram.me/DEV_PROX)
+# channel [ၣ℡ PROX DEV🔵](https://telegram.me/Mahodi_Sharif)
 👮 - #DEV 🏻-  @IQ_ABS
 * * *
 
@@ -15,10 +15,10 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 sudo apt-get upgrade
 
 #4
-git clone https://github.com/iqabs/DevProx.git
+git clone https://github.com/iqabs/Modi_Najjar.git
 
 #5
-cd DevProx
+cd Modi_Najjar
 
 #6
 chmod +x launch.sh
@@ -41,8 +41,8 @@ After you run the bot for first time, send it !id. Get your ID and stop the bot.
 Then restart the bot.
 * * *
 
-# Support and development [ၣ℡ PROX DEV🔵](https://telegram.me/DEV_PROX) 🐾
+# Support and development [ၣ℡ Mahodi_Najjar🔵](https://telegram.me/Mahodi_Najjar) 🐾
 
 For managing on Telegram.
 ADD [@iMardona](https://telegram.me/iMardona) ❤️
-Subscribe to Source channel [ၣ℡ PROX DEV🔵](https://telegram.me/DEV_PROX) 
+Subscribe to Source channel [ၣ℡ Mahodi_Najjar🔵](https://telegram.me/Mahodi_Najjar) 
